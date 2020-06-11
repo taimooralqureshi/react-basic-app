@@ -52,3 +52,24 @@
 .p {
   padding: 8px 12px 10px;
 }
+.p-10-20 {
+  padding: 10px 20px;
+}
+.w-200 {
+  width: 200px;
+}
+.wp-100 {
+  width: 100%;
+}
+.m-1 {
+ margin: 1em;
+}
+.h-150{
+  height: 150px;
+}
+.hide {
+  visibility: hidden;
+}
+.button-size {
+  width: 150px;
+}
